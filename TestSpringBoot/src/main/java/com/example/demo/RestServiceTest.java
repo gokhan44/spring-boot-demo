@@ -10,7 +10,7 @@ public class RestServiceTest {
 	
     @GetMapping("/all")
     public String findAll(){
-        return "Merhaba Spring Boot 1";
+        return "Merhaba Spring Boot 12222222222";
     }
 
 }
